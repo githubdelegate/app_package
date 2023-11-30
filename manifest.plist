@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/githubdelegate/app_package/main/NewSimpleCartoon.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/githubdelegate/app_package/blob/main/80.png?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/githubdelegate/app_package/blob/main/1024.png?raw=true</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string> com.daily.photo.art</string>
+				<key>bundle-version</key>
+				<string>1.4.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>简漫</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
