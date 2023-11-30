@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/githubdelegate/app_package/main/NewSimpleCartoon.ipa</string>
+					<string>https://jsdelivr.b-cdn.net/gh/githubdelegate/app_package@main/NewSimpleCartoon.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string> com.daily.photo.art</string>
+				<string>com.daily.photo.art</string>
 				<key>bundle-version</key>
 				<string>1.4.3</string>
 				<key>kind</key>
